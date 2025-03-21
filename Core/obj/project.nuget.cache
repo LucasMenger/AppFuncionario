@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uFiRF8IBDJo=",
+  "success": true,
+  "projectFilePath": "/Users/menger/Documents/IANavChat/Ambev/Core/Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/menger/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "/Users/menger/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
